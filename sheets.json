@@ -1,8 +1,50 @@
 {
-  "サンプル": [
+  "important1": [
     {
-      "word": "test",
-      "definition": "definition"
+      "word": "discern",
+      "definition": "to know, recognise, or understand something, especially something that is not obvious"
+    },
+    {
+      "word": "upright",
+      "definition": "not lying down, and with the back straight rather than bent"
+    },
+    {
+      "word": "falter",
+      "definition": "to be or become weak or unsteady; to hesitate and be unable to make a decision or choice"
+    },
+    {
+      "word": "curriculum",
+      "definition": "a formal set of courses and their content offered at a school or university"
+    }
+  ],
+  "important2": [
+    {
+      "word": "glacier",
+      "definition": "a large mass of ice moving slowly down a valley or spreading outward over a land surface"
+    },
+    {
+      "word": "peninsula",
+      "definition": "land almost surrounded by water but connected to the mainland on one side"
+    },
+    {
+      "word": "atoll",
+      "definition": "a ring-shaped reef or chain of islands formed of coral"
+    },
+    {
+      "word": "delta",
+      "definition": "a low triangular area where a river divides before entering a larger body of water"
+    },
+    {
+      "word": "canyon",
+      "definition": "a deep, narrow valley with steep rocky sides, often with a river flowing through it"
+    },
+    {
+      "word": "basin",
+      "definition": "an area of land drained by a river and its tributaries, often surrounded by higher ground"
+    },
+    {
+      "word": "ridge",
+      "definition": "a long narrow area of high land, often with steep sides"
     }
   ]
 }
